@@ -1,0 +1,9 @@
+2016/04/25-21:18:31.415228 7faab6cc8780 Recovering log #14
+2016/04/25-21:18:31.415264 7faab6cc8780 Level-0 table #16: started
+2016/04/25-21:18:31.462953 7faab6cc8780 Level-0 table #16: 142 bytes OK
+2016/04/25-21:18:31.547029 7faab6cc8780 Delete type=3 #12
+2016/04/25-21:18:31.547061 7faab6cc8780 Delete type=0 #14
+2016/04/25-21:18:31.547155 7faab5cc2700 Compacting 4@0 + 0@1 files
+2016/04/25-21:18:31.581375 7faab5cc2700 Generated table #18@0: 2 keys, 142 bytes
+2016/04/25-21:18:31.581413 7faab5cc2700 Compacted 4@0 + 0@1 files => 142 bytes
+2016/04/25-21:18:31.607566 7faab5cc2700 compacted to: files[ 0 1 0 0 0 0 0 ]
